@@ -76,7 +76,14 @@
 }
 
 @media only screen and (min-width: 320px) and (max-width: 480px){
+
+    .MovieDetail {
+        color: rgb(240, 67, 156);
+        background-color: rgb(254, 190, 204);
+        padding: 40px 0;
+    
     &__image {
         width: 100%;
+        margin-left: 0px;
     }
-}
+}}
