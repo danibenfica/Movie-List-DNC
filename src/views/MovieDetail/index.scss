@@ -1,6 +1,6 @@
 .MovieDetail {
-    color: white;
-    background-color: rgb(48, 48, 48);
+    color: rgb(240, 67, 156);
+    background-color: rgb(254, 190, 204);
     padding: 40px 0;
 
     &__container {
@@ -27,9 +27,12 @@
     }
 
     &__image {
-        width: 100%;
+        width: 50%;
         height: auto;
         margin-bottom: 30px;
+        margin-left: 300px;
+        justify-content: center;
+        align-items: center;
 
         img {
             border-radius: 0.5rem;
@@ -56,7 +59,7 @@
         margin-top: 40px;
         margin-right: auto;
         margin-left: auto;
-        background-color: #0071c5;
+        background-color: #ff7bad;
         color: #fff;
         padding: 10px 20px;
         border-radius: 5px;
@@ -64,9 +67,10 @@
         text-align: center;
         font-size: 24px;
         text-decoration: none;
+        width: 50%;
 
         &:hover {
-            background-color: #005896;
+            background-color: #ff4170;
         }
     }
 }
