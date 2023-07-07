@@ -5,7 +5,7 @@
 Este é um site de busca de filmes construído com React. 
 Ele permite que os usuários pesquisem filmes e visualizem informações detalhadas sobre um filme específico.
 
-Para acessa-lo diretamente online, clique [aqui!](https://movie-list-dnc-six.vercel.app/movie/455476)
+Para acessa-lo diretamente online, clique [aqui!](https://movie-list-dnc-six.vercel.app/)
 
 ### Estrutura do Projeto
 
