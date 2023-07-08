@@ -1,4 +1,5 @@
-![2023-07-07_16h53_34-_online-video-cutter com_](https://github.com/danibenfica/movieList-dnc/assets/103818625/36094827-3d54-47cd-af60-0ea456832ac4)
+!(https://github.com/danibenfica/movieList-dnc/assets/103818625/2bbb83fd-35e2-4aa3-802f-d9bbd0a6d811
+)
 
 ## Projeto Movie List
 
