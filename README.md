@@ -1,5 +1,4 @@
-!(https://github.com/danibenfica/movieList-dnc/assets/103818625/2bbb83fd-35e2-4aa3-802f-d9bbd0a6d811
-)
+![github-gif-_online-video-cutter com_-_2_](https://github.com/danibenfica/movieList-dnc/assets/103818625/f722399f-1780-486e-9245-384dbf160fe5)
 
 ## Projeto Movie List
 
